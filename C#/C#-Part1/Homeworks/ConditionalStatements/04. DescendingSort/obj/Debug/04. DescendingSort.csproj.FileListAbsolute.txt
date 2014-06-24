@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\04. DescendingSort\bin\Debug\_04.DescendingSort.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\04. DescendingSort\bin\Debug\_04.DescendingSort.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\04. DescendingSort\bin\Debug\_04.DescendingSort.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\04. DescendingSort\obj\Debug\_04.DescendingSort.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\04. DescendingSort\obj\Debug\_04.DescendingSort.pdb

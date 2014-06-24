@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\09. ReplaceWords\bin\Debug\_09.ReplaceWords.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\09. ReplaceWords\bin\Debug\_09.ReplaceWords.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\09. ReplaceWords\bin\Debug\_09.ReplaceWords.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\09. ReplaceWords\obj\Debug\_09.ReplaceWords.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\09. ReplaceWords\obj\Debug\_09.ReplaceWords.pdb

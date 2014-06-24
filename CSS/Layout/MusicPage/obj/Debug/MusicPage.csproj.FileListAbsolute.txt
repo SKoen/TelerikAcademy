@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MusicPage\bin\MusicPage.dll
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MusicPage\bin\MusicPage.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MusicPage\obj\Debug\MusicPage.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MusicPage\obj\Debug\MusicPage.dll
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MusicPage\obj\Debug\MusicPage.pdb

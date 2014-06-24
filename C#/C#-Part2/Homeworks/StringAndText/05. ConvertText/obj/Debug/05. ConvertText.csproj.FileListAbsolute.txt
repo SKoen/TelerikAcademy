@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\05. ConvertText\bin\Debug\_05.ConvertText.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\05. ConvertText\bin\Debug\_05.ConvertText.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\05. ConvertText\bin\Debug\_05.ConvertText.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\05. ConvertText\obj\Debug\_05.ConvertText.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\05. ConvertText\obj\Debug\_05.ConvertText.pdb

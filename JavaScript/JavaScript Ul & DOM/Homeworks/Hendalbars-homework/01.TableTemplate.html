@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Table Template with Handelbars</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+        table {
+            border-collapse: collapse;
+        }
+        th{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<div id="calendar"></div>
+    <script src="libs/handlebars-v1.3.0.js"></script>
+    <script id="table-template" type="text/hendalbars-template-x">
+        <table>
+            <tr style="background-color: darkgray">
+                <th>№</th>
+                <th>Title</th>
+                <th>Date #1</th>
+                <th>Date #2</th>
+            </tr>
+            {{#each calendar}}
+                {{#if even}}
+                    <tr style="background-color: white">
+                {{else}}
+                    <tr style="background-color: lightgray">
+                {{/if}}
+                        <td style="text-align: center">{{@index}}</td>
+                        <td>{{title}}</td>
+                        <td>{{date1}}</td>
+                        <td>{{date2}}</td>
+                    </tr>
+            {{/each}}
+         </table>
+    </script>
+    <script>
+        var calendar = [{
+                title: 'Course Introduction',
+                date1: 'Wed 18:00, 28-May-2014',
+                date2: 'Thu 14:00, 29-May-2014',
+                even: true
+            }, {
+                title: 'DOM',
+                date1: 'Wed 18:00, 28-May-2014',
+                date2: 'Thu 14:00, 29-May-2014',
+                even: false
+            }, {
+                title: 'HTML5 Canvas',
+                date1: 'Wed 18:00, 29-May-2014',
+                date2: 'Thu 14:00, 30-May-2014',
+                even: true
+            }, {
+                title: 'Kinetic JS',
+                date1: 'Wed 18:00, 29-May-2014',
+                date2: 'Thu 14:00, 30-May-2014',
+                even: false
+            }, {
+                title: 'Animation with canvas and SVG',
+                date1: 'Wed 18:00, 04-Jun-2014',
+                date2: 'Thu 14:00, 05-Jun-2014',
+                even: true
+            }, {
+                title: 'DOM Operation',
+                date1: 'Wed 18:00, 05-Jun-2014',
+                date2: 'Thu 14:00, 06-Jun-2014',
+                even: false
+            }, {
+                title: 'Event Model',
+                date1: 'Wed 18:00, 04-Jun-2014',
+                date2: 'Thu 14:00, 05-Jun-2014',
+                even: true
+            }, {
+                title: 'jQuery Overview',
+                date1: 'Wed 18:00, 11-Jun-2014',
+                date2: 'Thu 14:00, 12-Jun-2014',
+                even: false
+            }, {
+                title: 'jQuery Overview',
+                date1: 'Wed 18:00, 11-Jun-2014',
+                date2: 'Thu 14:00, 12-Jun-2014',
+                even: true
+            }];
+
+        var listContainer = document.getElementById('calendar');
+        var authorsListTemplate = Handlebars.compile((document.getElementById('table-template')).innerHTML);
+        while (listContainer.firstChild) {
+            listContainer.removeChild(listContainer.firstChild);
+        }
+
+        listContainer.innerHTML = authorsListTemplate({
+            calendar: calendar
+        });
+    </script>
+</body>
+</html>

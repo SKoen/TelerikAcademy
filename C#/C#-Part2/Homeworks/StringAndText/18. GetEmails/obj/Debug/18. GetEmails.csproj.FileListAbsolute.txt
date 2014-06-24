@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\bin\Debug\_18.GetEmails.exe.config
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\obj\Debug\18. GetEmails.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\bin\Debug\_18.GetEmails.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\bin\Debug\_18.GetEmails.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\obj\Debug\_18.GetEmails.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\18. GetEmails\obj\Debug\_18.GetEmails.pdb

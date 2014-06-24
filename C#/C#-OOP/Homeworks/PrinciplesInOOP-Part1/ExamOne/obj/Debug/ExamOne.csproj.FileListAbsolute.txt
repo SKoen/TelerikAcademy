@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\bin\Debug\ExamOne.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\bin\Debug\ExamOne.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\bin\Debug\ExamOne.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\obj\Debug\ExamOne.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\obj\Debug\ExamOne.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ExamOne\ExamOne\obj\Debug\ExamOne.pdb

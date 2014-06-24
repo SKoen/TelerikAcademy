@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Rectangle Area Calculator</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="width">Enter Width</label>
+    <input type="text" id="width" />
+    <label for="height">Enter Height</label>
+    <input type="text" id="height" />
+    <input type="button" value="Enter" onclick="calculate()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function calculate() {
+            var width = jsConsole.readInteger("#width");
+                height = jsConsole.readInteger("#height");
+                area = width * height;
+            jsConsole.writeLine("Rectangle with width: " + width + " and height: " + height + " have area: " + area);
+        }
+    </script>
+</body>
+</html>

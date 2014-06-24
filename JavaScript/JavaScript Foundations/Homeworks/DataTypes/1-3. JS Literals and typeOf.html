@@ -1,0 +1,33 @@
+﻿<html>
+<head>
+	<title>1+3. JavaScript Literals + typeOf </title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>				 
+	<script src="scripts/js-console.js"></script>
+	<script>
+        
+        var ultimateLiteral = "Pesho"; 
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = 'Пешо';
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = 5;
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = 4.23;
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = ["Pesho", "Gosho", 'Ivan'];
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = true;
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+
+        ultimateLiteral = new Object();
+        jsConsole.writeLine(typeof ultimateLiteral + ": " + ultimateLiteral);
+	</script>
+</body>
+</html>

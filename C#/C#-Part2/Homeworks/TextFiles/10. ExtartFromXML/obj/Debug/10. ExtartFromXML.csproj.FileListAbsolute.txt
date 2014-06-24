@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\bin\Debug\_10.ExtartFromXML.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\bin\Debug\_10.ExtartFromXML.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\bin\Debug\_10.ExtartFromXML.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\obj\Debug\10. ExtartFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\obj\Debug\_10.ExtartFromXML.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\10. ExtartFromXML\obj\Debug\_10.ExtartFromXML.pdb

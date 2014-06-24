@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\bin\Debug\_05.BiggerNeighbor.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\bin\Debug\_05.BiggerNeighbor.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\bin\Debug\_05.BiggerNeighbor.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\obj\Debug\_05.BiggerNeighbor.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\obj\Debug\_05.BiggerNeighbor.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\05. BiggerNeighbor\obj\Debug\05. BiggerNeighbor.csprojResolveAssemblyReference.cache

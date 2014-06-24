@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\bin\Debug\HumanProgram.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\bin\Debug\HumanProgram.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\bin\Debug\HumanProgram.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\obj\Debug\HumanProgram.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\obj\Debug\HumanProgram.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\HumanProgram\obj\Debug\HumanProgram.csprojResolveAssemblyReference.cache

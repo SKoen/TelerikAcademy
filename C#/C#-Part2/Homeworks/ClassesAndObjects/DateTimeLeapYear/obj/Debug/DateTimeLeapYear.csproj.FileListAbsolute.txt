@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\bin\Debug\DateTimeLeapYear.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\bin\Debug\DateTimeLeapYear.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\bin\Debug\DateTimeLeapYear.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\obj\Debug\DateTimeLeapYear.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\obj\Debug\DateTimeLeapYear.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\DateTimeLeapYear\obj\Debug\DateTimeLeapYear.pdb

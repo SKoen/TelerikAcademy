@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\bin\Debug\_13.FileToFile.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\bin\Debug\_13.FileToFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\bin\Debug\_13.FileToFile.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\obj\Debug\_13.FileToFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\obj\Debug\_13.FileToFile.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\13. FileToFile\obj\Debug\13. FileToFile.csprojResolveAssemblyReference.cache

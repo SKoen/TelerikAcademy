@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\04. Download\bin\Debug\_04.Download.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\04. Download\bin\Debug\_04.Download.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\04. Download\bin\Debug\_04.Download.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\04. Download\obj\Debug\_04.Download.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\04. Download\obj\Debug\_04.Download.pdb

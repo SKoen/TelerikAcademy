@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\bin\Debug\_03.CheckMatrix.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\bin\Debug\_03.CheckMatrix.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\bin\Debug\_03.CheckMatrix.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\obj\Debug\03. CheckMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\obj\Debug\_03.CheckMatrix.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\03. CheckMatrix\obj\Debug\_03.CheckMatrix.pdb

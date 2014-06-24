@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\22. Words\bin\Debug\_22.Words.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\22. Words\bin\Debug\_22.Words.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\22. Words\bin\Debug\_22.Words.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\22. Words\obj\Debug\_22.Words.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\22. Words\obj\Debug\_22.Words.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\20. ExtractPolindromes\bin\Debug\_20.ExtractPolindromes.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\20. ExtractPolindromes\bin\Debug\_20.ExtractPolindromes.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\20. ExtractPolindromes\bin\Debug\_20.ExtractPolindromes.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\20. ExtractPolindromes\obj\Debug\_20.ExtractPolindromes.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\20. ExtractPolindromes\obj\Debug\_20.ExtractPolindromes.pdb

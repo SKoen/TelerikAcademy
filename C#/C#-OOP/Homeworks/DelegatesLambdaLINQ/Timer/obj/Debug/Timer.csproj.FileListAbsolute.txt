@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Timer\bin\Debug\Timer.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Timer\bin\Debug\Timer.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Timer\obj\Debug\Timer.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Timer\obj\Debug\Timer.pdb

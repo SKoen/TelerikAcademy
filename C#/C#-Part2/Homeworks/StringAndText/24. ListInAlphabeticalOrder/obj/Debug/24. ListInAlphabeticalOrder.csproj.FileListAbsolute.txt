@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\24. ListInAlphabeticalOrder\bin\Debug\_24.ListInAlphabeticalOrder.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\24. ListInAlphabeticalOrder\bin\Debug\_24.ListInAlphabeticalOrder.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\24. ListInAlphabeticalOrder\bin\Debug\_24.ListInAlphabeticalOrder.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\24. ListInAlphabeticalOrder\obj\Debug\_24.ListInAlphabeticalOrder.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\24. ListInAlphabeticalOrder\obj\Debug\_24.ListInAlphabeticalOrder.pdb

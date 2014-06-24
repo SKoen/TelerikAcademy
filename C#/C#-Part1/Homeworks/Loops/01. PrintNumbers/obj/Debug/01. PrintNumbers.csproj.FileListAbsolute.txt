@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\bin\Debug\_01.PrintNumbers.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\bin\Debug\_01.PrintNumbers.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\bin\Debug\_01.PrintNumbers.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\obj\Debug\01. PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\obj\Debug\_01.PrintNumbers.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\01. PrintNumbers\obj\Debug\_01.PrintNumbers.pdb

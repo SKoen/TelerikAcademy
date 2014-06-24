@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Family Tree</title>
+</head>
+<body>
+    <div id="kinetic-div"></div>
+    <script src="bower_components/kineticjs/kinetic.js"></script>
+    <script>
+        var stage = new Kinetic.Stage({
+           container: 'kinetic-div',
+            width: 900,
+            height: 500
+        });
+        var familyMembers = [{
+            mother: 'Maria Petrova',
+            father: 'Georgi Petrov',
+            children: ['Teodora Petrova',
+                'Peter Petrov']
+        }, {
+            mother: 'Petra Stamatova',
+            father: 'Todor Stamatov',
+            children: ['Maria Petrova']
+        }];
+        var layer = new Kinetic.Layer();
+
+        var x = 10,
+            y = 30,
+            moveCords = 20;
+
+        for(var i = 0; i < 2; i++) {
+            var line = new Kinetic.Line({
+                points: [x, y, x + 100, y, x + 100, y + 50, x, y + 50, x, y],
+                stroke: 'green',
+                strokeWidth: 2,
+                tension: 0.2
+            });
+
+            var mother = new Kinetic.Text({
+                x: x+10,
+                y: y+15,
+                text: familyMembers[i].mother,
+                fontFamily: 'Calibri',
+                fontSize: 13,
+                fill: 'black'
+            });
+
+            var line2 = new Kinetic.Line({
+                points: [x+120, y, x + 230, y, x + 230, y + 50, x+120, y + 50, x+120, y],
+                stroke: 'green',
+                strokeWidth: 2,
+                tension: 0.3
+            });
+
+            var father = new Kinetic.Text({
+                x: x+130,
+                y: y+15,
+                text: familyMembers[i].father,
+                fontFamily: 'Calibri',
+                fontSize: 13,
+                fill: 'black'
+            });
+
+            y+=80;
+            x+=40;
+
+            var line3 = new Kinetic.Line({
+                points: [x, y, x + 100, y, x + 100, y + 50, x, y + 50, x, y],
+                stroke: 'green',
+                strokeWidth: 2,
+                tension: 0.4
+            });
+
+            var children = new Kinetic.Text({
+                x: x+10,
+                y: y+15,
+                text: familyMembers[i].children[0],
+                fontFamily: 'Calibri',
+                fontSize: 13,
+                fill: 'black'
+            });
+
+            x-=40;
+            y+=80;
+
+            layer.add(line3);
+            layer.add(children);
+            layer.add(line2);
+            layer.add(line);
+            layer.add(mother);
+            layer.add(father);
+        }
+
+        stage.add(layer);
+</script>
+</body>
+</html>

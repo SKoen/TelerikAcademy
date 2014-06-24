@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\6. BoolIsFemale\bin\Debug\_6.BoolIsFemale.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\6. BoolIsFemale\bin\Debug\_6.BoolIsFemale.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\6. BoolIsFemale\obj\x86\Debug\_6.BoolIsFemale.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\6. BoolIsFemale\obj\x86\Debug\_6.BoolIsFemale.pdb

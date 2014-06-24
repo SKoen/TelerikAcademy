@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\9. TriangleFromCopyrights\bin\Debug\_9.TriangleFromCopyrights.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\9. TriangleFromCopyrights\bin\Debug\_9.TriangleFromCopyrights.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\9. TriangleFromCopyrights\obj\x86\Debug\_9.TriangleFromCopyrights.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\9. TriangleFromCopyrights\obj\x86\Debug\_9.TriangleFromCopyrights.pdb

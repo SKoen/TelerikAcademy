@@ -1,0 +1,4 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MemberLogin\bin\MemberLogin.dll
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MemberLogin\bin\MemberLogin.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MemberLogin\obj\Debug\MemberLogin.dll
+c:\users\sh0rti\documents\visual studio 2012\Projects\Layout\MemberLogin\obj\Debug\MemberLogin.pdb

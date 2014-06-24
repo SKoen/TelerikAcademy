@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\4. Hex\bin\Debug\_4.Hex.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\4. Hex\bin\Debug\_4.Hex.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\4. Hex\obj\x86\Debug\_4.Hex.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\4. Hex\obj\x86\Debug\_4.Hex.pdb

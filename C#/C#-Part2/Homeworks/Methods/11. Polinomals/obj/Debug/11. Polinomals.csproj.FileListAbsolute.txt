@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\bin\Debug\_11.Polinomals.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\bin\Debug\_11.Polinomals.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\bin\Debug\_11.Polinomals.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\obj\Debug\11. Polinomals.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\obj\Debug\_11.Polinomals.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\11. Polinomals\obj\Debug\_11.Polinomals.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\bin\Debug\_01.Exchange.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\bin\Debug\_01.Exchange.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\bin\Debug\_01.Exchange.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\obj\Debug\01. Exchange.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\obj\Debug\_01.Exchange.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\01. Exchange\obj\Debug\_01.Exchange.pdb

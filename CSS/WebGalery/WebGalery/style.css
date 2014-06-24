@@ -1,0 +1,29 @@
+body label {
+  display: inline-block; }
+  body label img {
+    width: 200px;
+    height: 150px; }
+body input {
+  display: none; }
+body .images {
+  padding-top: 20px;
+  padding-left: 20px;
+  display: block; }
+  body .images img {
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    /*visibility: hidden;*/ }
+body #cat:checked #one {
+  visibility: visible; }
+body #dog:checked + #two {
+  visibility: visible; }
+body #lion:checked + #three {
+  visibility: visible; }
+body #bear:checked + #four {
+  visibility: visible; }
+body #horse:checked + #five {
+  visibility: visible; }
+body #monkey:checked + #six {
+  visibility: visible; }
+

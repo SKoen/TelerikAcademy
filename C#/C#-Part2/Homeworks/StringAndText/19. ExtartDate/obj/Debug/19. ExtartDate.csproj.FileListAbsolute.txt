@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\19. ExtartDate\bin\Debug\_19.ExtartDate.exe.config
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\19. ExtartDate\bin\Debug\_19.ExtartDate.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\19. ExtartDate\bin\Debug\_19.ExtartDate.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\19. ExtartDate\obj\Debug\_19.ExtartDate.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\19. ExtartDate\obj\Debug\_19.ExtartDate.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\19. ExtartDate\obj\Debug\19. ExtartDate.csprojResolveAssemblyReference.cache

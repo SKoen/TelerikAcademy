@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\6. ChecksCircle\obj\x86\Debug\_6.ChecksCircle.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\6. ChecksCircle\obj\x86\Debug\_6.ChecksCircle.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\6. ChecksCircle\bin\Debug\_6.ChecksCircle.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\6. ChecksCircle\bin\Debug\_6.ChecksCircle.pdb

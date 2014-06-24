@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check the Thurd Bit</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Enter Number</label>
+    <input type="text" id="number" />
+    <input type="button" value="Enter" onclick="checkTheBit()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function checkTheBit() {
+            var decimalNumber = jsConsole.readInteger("#number");
+                binaryNumber = Number(decimalNumber).toString(2);
+            if (binaryNumber[3] == 0) {
+                jsConsole.writeLine("The thurd digit is 0.");
+            }
+            else {
+                jsConsole.writeLine("The thurd digit is 1.");
+            }
+        }
+    </script>
+</body>
+</html>

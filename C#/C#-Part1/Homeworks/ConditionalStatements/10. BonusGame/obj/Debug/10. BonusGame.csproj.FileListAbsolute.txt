@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\10. BonusGame\bin\Debug\_10.BonusGame.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\10. BonusGame\bin\Debug\_10.BonusGame.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\10. BonusGame\bin\Debug\_10.BonusGame.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\10. BonusGame\obj\Debug\_10.BonusGame.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\10. BonusGame\obj\Debug\_10.BonusGame.pdb

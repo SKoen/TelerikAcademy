@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\bin\Debug\_11.PrintNumber.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\bin\Debug\_11.PrintNumber.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\bin\Debug\_11.PrintNumber.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\obj\Debug\_11.PrintNumber.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\obj\Debug\_11.PrintNumber.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\11. PrintNumber\obj\Debug\11. PrintNumber--.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\1. OddOrEven\obj\x86\Debug\_1.OddOrEven.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\1. OddOrEven\obj\x86\Debug\_1.OddOrEven.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\1. OddOrEven\bin\Debug\_1.OddOrEven.pdb

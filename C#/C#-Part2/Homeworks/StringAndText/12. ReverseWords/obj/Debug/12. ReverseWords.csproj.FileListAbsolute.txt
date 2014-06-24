@@ -1,0 +1,1 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\12. ReverseWords\bin\Debug\_12.ReverseWords.exe.config

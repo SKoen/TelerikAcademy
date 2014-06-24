@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\11. RemoveTest\bin\Debug\_11.RemoveTest.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\11. RemoveTest\bin\Debug\_11.RemoveTest.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\11. RemoveTest\bin\Debug\_11.RemoveTest.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\11. RemoveTest\obj\Debug\_11.RemoveTest.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\11. RemoveTest\obj\Debug\_11.RemoveTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_14.Methods.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_14.Methods.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_14.Methods.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_09.MaxOfPart.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_08.ArrayOfDigits.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_09.MaxOfPart.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\bin\Debug\_08.ArrayOfDigits.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\obj\Debug\14. Methods.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\obj\Debug\_14.Methods.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\14. Methods\obj\Debug\_14.Methods.pdb

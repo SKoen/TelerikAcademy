@@ -1,0 +1,47 @@
+﻿body {
+    background-color: rgb(169, 169, 169);
+    
+}
+h1#header {
+    font-size: 53px;
+    color: rgb(250, 250, 210);
+}
+h1 {
+    color: rgb(250, 250, 210);
+    font-size: 42px;
+}
+#header {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+nav {
+    list-style: none;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+nav a:link {
+    
+    color: rgb(250, 250, 210);
+}
+nav a:hover {
+    background-color: rgb(211, 211, 211); 
+}
+.myClass {
+    text-align: center;
+    padding-bottom: 10px;
+}
+p a:link {
+    color: black;
+}
+p { 
+    color: rgb(169, 169, 169);
+}
+p.line::first-line {
+    color: black;
+}
+p.tru {
+    color: black;
+}

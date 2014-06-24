@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\bin\Debug\_03.CorrectBrackets.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\bin\Debug\_03.CorrectBrackets.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\bin\Debug\_03.CorrectBrackets.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\obj\Debug\03. CorrectBrackets.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\obj\Debug\_03.CorrectBrackets.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\03. CorrectBrackets\obj\Debug\_03.CorrectBrackets.pdb

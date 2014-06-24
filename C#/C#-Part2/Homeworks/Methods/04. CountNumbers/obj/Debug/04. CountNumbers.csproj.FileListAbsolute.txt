@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\04. CountNumbers\bin\Debug\_04.CountNumbers.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\04. CountNumbers\bin\Debug\_04.CountNumbers.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\04. CountNumbers\bin\Debug\_04.CountNumbers.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\04. CountNumbers\obj\Debug\_04.CountNumbers.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\04. CountNumbers\obj\Debug\_04.CountNumbers.pdb

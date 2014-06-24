@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\03. LastWord\bin\Debug\_03.LastWord.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\03. LastWord\bin\Debug\_03.LastWord.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\03. LastWord\bin\Debug\_03.LastWord.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\03. LastWord\obj\Debug\_03.LastWord.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\03. LastWord\obj\Debug\_03.LastWord.pdb

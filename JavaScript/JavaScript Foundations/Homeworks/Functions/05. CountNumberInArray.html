@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Count Numbers in a Array</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Number: </label>
+    <input type="text" id="number" />
+    <input type="button" onclick="countDigitS()" value="Count" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script src="scripts/05.numberAppears.js"></script>
+    <script>
+        function countDigitS() {
+            var numberArray = [2, 3, 4, 5, 2, 2, 2, 6, 7, 4, 4, 6, 3, 2, 1];
+                digits = jsConsole.readInteger("#number");
+            countDigit(numberArray, digits);
+        }
+    </script>
+</body>
+</html>

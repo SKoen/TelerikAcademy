@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Change Background Color</title>
+</head>
+<body>
+<div id="wrapper"></div>
+    <script src="lib/jquery-1.11.1.min.js"></script>
+    <script>
+        $('<input>').attr('type', 'color')
+                .on('change', onInputChangeChangeBackgroundColor)
+                .appendTo('#wrapper');
+
+        function onInputChangeChangeBackgroundColor(){
+            var color = $('input').val();
+            $('body').css('background', color);
+        }
+    </script>
+
+</body>
+</html>

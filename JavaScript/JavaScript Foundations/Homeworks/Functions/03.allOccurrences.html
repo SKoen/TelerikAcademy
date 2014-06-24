@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <input type="button" onclick="count()" value="Count" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script src="scripts/03.occurrences.js"></script>
+    <script>
+        function count() {
+            //Test
+            someText = "moje i da moje da doidesh moje ako moje da stane no shte moje"
+            word = "moje";
+            jsConsole.writeLine(word + " occures " + findOccurrences(someText, word, false) + " times in the text (insensitive)");
+            jsConsole.writeLine(word + " occures " + findOccurrences(someText, word, true) + " times in the text (sensitive)");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\bin\Debug\_02.RectangularMatrix.exe.config
+c:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\bin\Debug\_02.RectangularMatrix.exe
+c:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\bin\Debug\_02.RectangularMatrix.pdb
+c:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\obj\Debug\_02.RectangularMatrix.exe
+c:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\obj\Debug\_02.RectangularMatrix.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\02. RectangularMatrix\obj\Debug\02. RectangularMatrix.csprojResolveAssemblyReference.cache

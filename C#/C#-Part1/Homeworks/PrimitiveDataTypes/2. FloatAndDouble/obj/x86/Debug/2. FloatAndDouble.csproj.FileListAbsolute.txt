@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\2. FloatAndDouble\bin\Debug\_2.FloatAndDouble.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\2. FloatAndDouble\bin\Debug\_2.FloatAndDouble.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\2. FloatAndDouble\obj\x86\Debug\_2.FloatAndDouble.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\2. FloatAndDouble\obj\x86\Debug\_2.FloatAndDouble.pdb

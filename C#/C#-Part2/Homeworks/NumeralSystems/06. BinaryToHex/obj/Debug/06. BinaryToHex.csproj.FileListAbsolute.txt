@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\06. BinaryToHex\bin\Debug\_06.BinaryToHex.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\06. BinaryToHex\bin\Debug\_06.BinaryToHex.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\06. BinaryToHex\bin\Debug\_06.BinaryToHex.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\06. BinaryToHex\obj\Debug\_06.BinaryToHex.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\06. BinaryToHex\obj\Debug\_06.BinaryToHex.pdb

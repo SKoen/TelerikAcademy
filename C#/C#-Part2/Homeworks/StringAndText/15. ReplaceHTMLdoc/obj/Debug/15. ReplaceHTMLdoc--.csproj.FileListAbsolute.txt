@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\15. ReplaceHTMLdoc\bin\Debug\_15.ReplaceHTMLdoc.exe.config
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\15. ReplaceHTMLdoc\bin\Debug\_15.ReplaceHTMLdoc.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\15. ReplaceHTMLdoc\bin\Debug\_15.ReplaceHTMLdoc.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\15. ReplaceHTMLdoc\obj\Debug\_15.ReplaceHTMLdoc.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\15. ReplaceHTMLdoc\obj\Debug\_15.ReplaceHTMLdoc.pdb

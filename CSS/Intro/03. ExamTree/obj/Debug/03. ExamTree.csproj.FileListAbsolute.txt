@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\03. ExamTree\bin\_03.ExamTree.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\03. ExamTree\bin\_03.ExamTree.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\03. ExamTree\obj\Debug\03. ExamTree.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\03. ExamTree\obj\Debug\_03.ExamTree.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\03. ExamTree\obj\Debug\_03.ExamTree.pdb

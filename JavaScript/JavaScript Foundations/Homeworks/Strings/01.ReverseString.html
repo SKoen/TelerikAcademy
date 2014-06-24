@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse String</title>
+    <link href="style/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="strName">Enter String</label>
+    <input type="text" id="strName" />
+    <input type="button" onclick="Reverse()" value="Enter"/>
+    <div id="js-console"></div>
+    <script>
+        function Reverse() {
+            var name = jsConsole.read("#strName");
+            var newName = "";
+            for (var i = name.length-1; i >= 0; i--) {
+                newName += name[i];
+            }
+            jsConsole.writeLine(newName);
+        }
+    </script>
+    <script src="script/js-console.js"></script>
+</body>
+</html>

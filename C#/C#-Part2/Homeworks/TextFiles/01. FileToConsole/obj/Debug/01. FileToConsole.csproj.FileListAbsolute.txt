@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\bin\Debug\_01.FileToConsole.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\bin\Debug\_01.FileToConsole.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\bin\Debug\_01.FileToConsole.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\obj\Debug\01. FileToConsole.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\obj\Debug\_01.FileToConsole.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\01. FileToConsole\obj\Debug\_01.FileToConsole.pdb

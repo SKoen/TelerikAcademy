@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Set backgroud color from input</title>
+</head>
+<body>
+    <label>Pick a color: </label>
+    <input type="color" id="picedColor">
+    <input type="button" onclick="SetBackgroundColor()" value="SetColor">
+    <script>
+        function SetBackgroundColor(){
+            var value = document.getElementById("picedColor").value;
+            document.body.style.backgroundColor = value;
+        }
+    </script>
+
+</body>
+</html>

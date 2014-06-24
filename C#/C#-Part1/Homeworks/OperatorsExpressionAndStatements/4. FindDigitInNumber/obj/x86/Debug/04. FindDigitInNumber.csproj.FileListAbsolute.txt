@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\4. FindDigitInNumber\obj\x86\Debug\_4.FindDigitInNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\4. FindDigitInNumber\obj\x86\Debug\_4.FindDigitInNumber.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\4. FindDigitInNumber\bin\Debug\_4.FindDigitInNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\4. FindDigitInNumber\bin\Debug\_4.FindDigitInNumber.pdb

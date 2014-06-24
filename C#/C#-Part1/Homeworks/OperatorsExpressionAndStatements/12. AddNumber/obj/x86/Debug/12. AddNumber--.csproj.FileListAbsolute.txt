@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\12. AddNumber\obj\x86\Debug\_12.AddNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\12. AddNumber\obj\x86\Debug\_12.AddNumber.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\12. AddNumber\bin\Debug\_12.AddNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\12. AddNumber\bin\Debug\_12.AddNumber.pdb

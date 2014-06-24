@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\7. PrimeNumbers\obj\x86\Debug\_7.PrimeNumbers.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\7. PrimeNumbers\obj\x86\Debug\_7.PrimeNumbers.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.pdb

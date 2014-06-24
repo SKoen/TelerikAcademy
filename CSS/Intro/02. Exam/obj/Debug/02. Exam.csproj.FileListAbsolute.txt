@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\02. Exam\bin\_02.Exam.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\02. Exam\bin\_02.Exam.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\02. Exam\obj\Debug\_02.Exam.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\02. Exam\obj\Debug\_02.Exam.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-Intro\02. Exam\obj\Debug\02. Exam.csprojResolveAssemblyReference.cache

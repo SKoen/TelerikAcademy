@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        var webSite = "http://www.devbg.org/forum/index.php",
+            webProtocol = webSite.substring(0, webSite.indexOf(":")),
+            webServer = webSite.substring(webSite.indexOf("/") + 2, webSite.indexOf("/", webSite.indexOf("/") + 2)),
+            webResorce = webSite.substring(webSite.indexOf("/", webSite.indexOf("/") + 2));
+
+        var webObj = {
+            "Protocol": webProtocol,
+            "Server": webServer,
+            "Resource": webResorce,
+        };
+
+        jsConsole.writeLine("Protocol: '" + webObj.Protocol + "'")
+        jsConsole.writeLine("Server: '" + webObj.Server + "'")
+        jsConsole.writeLine("Resource: '" + webObj.Resource + "'")
+    </script>
+</body>
+</html>

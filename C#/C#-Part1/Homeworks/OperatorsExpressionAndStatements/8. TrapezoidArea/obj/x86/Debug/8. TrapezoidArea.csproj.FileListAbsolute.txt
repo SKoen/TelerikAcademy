@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\8. TrapezoidArea\bin\Debug\_8.TrapezoidArea.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\8. TrapezoidArea\bin\Debug\_8.TrapezoidArea.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\8. TrapezoidArea\obj\x86\Debug\_8.TrapezoidArea.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\8. TrapezoidArea\obj\x86\Debug\_8.TrapezoidArea.pdb

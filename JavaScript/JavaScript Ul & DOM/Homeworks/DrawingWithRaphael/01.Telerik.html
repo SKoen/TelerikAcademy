@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Draw Telerik Logo</title>
+</head>
+<body>
+<div id="svg-container"></div>
+<script type="text/javascript" src="bower_components/raphael/raphael.js"></script>
+<script>
+    var paper = Raphael('svg-container', 500, 400);
+
+    paper.rect(50, 50, 400, 160).attr({
+        stroke: '#d8f79d'
+    });
+
+    paper.path("M 80 100 L 100 80 L 140 115 L 115 140 L 90 120 L 135 80 L 155 100").attr({
+        stroke: '#5ce600',
+        'stroke-width': '10'
+    })
+
+    paper.text(280, 115, "Telerik®").attr({
+        "font-weight": "bold",
+        "font-size": 70,
+        "font-family": "Calibri"
+    });
+
+    paper.text(305, 160, "Developer experiences").attr({
+        "font-size": 30,
+        "font-family": "Calibri"
+    });
+
+</script>
+</body>
+</html>

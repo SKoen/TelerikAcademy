@@ -1,0 +1,2 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Delegates\obj\Debug\01. Override.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\DelegatesLambdaLINQ\Delegates\obj\Debug\Delegates.exe

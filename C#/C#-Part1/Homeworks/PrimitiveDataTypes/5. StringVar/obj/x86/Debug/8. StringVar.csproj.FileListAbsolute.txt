@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. StringVar\bin\Debug\_5.StringVar.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. StringVar\bin\Debug\_5.StringVar.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. StringVar\obj\x86\Debug\_5.StringVar.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. StringVar\obj\x86\Debug\_5.StringVar.pdb

@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\02. ReversString\bin\Debug\_02.ReversString.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\02. ReversString\bin\Debug\_02.ReversString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\02. ReversString\bin\Debug\_02.ReversString.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\02. ReversString\obj\Debug\_02.ReversString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\02. ReversString\obj\Debug\_02.ReversString.pdb

@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\bin\Debug\_01.SqrtRoot.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\bin\Debug\_01.SqrtRoot.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\bin\Debug\_01.SqrtRoot.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\obj\Debug\01. SqrtRoot.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\obj\Debug\_01.SqrtRoot.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\01. SqrtRoot\obj\Debug\_01.SqrtRoot.pdb

@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\2. DoubleDividet\bin\Debug\_2.DoubleDividet.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\2. DoubleDividet\bin\Debug\_2.DoubleDividet.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\2. DoubleDividet\obj\x86\Debug\_2.DoubleDividet.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\2. DoubleDividet\obj\x86\Debug\_2.DoubleDividet.pdb

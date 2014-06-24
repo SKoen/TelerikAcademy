@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\06. SumOfDrops\bin\Debug\_06.SumOfDrops.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\06. SumOfDrops\bin\Debug\_06.SumOfDrops.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\06. SumOfDrops\bin\Debug\_06.SumOfDrops.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\06. SumOfDrops\obj\Debug\_06.SumOfDrops.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\06. SumOfDrops\obj\Debug\_06.SumOfDrops.pdb

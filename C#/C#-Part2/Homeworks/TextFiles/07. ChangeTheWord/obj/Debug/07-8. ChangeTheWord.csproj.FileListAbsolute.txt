@@ -1,0 +1,3 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\07. ChangeTheWord\bin\Debug\_07.ChangeTheWord.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\07. ChangeTheWord\obj\Debug\_07.ChangeTheWord.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\07. ChangeTheWord\obj\Debug\_07.ChangeTheWord.pdb

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Greatest Number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="numbers">Enter 5 number separated by comas</label>
+    <input type="text" id="numbers" />
+    <input type="button" onclick="greatest()" value="Greatest" />
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function greatest() {
+            var numbers = jsConsole.read("#numbers");
+                numbersArray = numbers.split(",");
+                biggest = numbersArray[0];
+            for (var i = 0; i < numbersArray.length; i++) {
+                if (biggest < numbersArray[i]) {
+                    biggest = numbersArray[i];
+                }
+            }
+
+            jsConsole.writeLine(biggest);
+        }
+    </script>
+</body>
+</html>

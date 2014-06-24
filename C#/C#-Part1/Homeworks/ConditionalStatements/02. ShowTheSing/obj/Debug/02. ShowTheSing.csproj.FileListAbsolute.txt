@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\bin\Debug\_02.ShowTheSing.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\bin\Debug\_02.ShowTheSing.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\bin\Debug\_02.ShowTheSing.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\obj\Debug\02. ShowTheSing.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\obj\Debug\_02.ShowTheSing.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\02. ShowTheSing\obj\Debug\_02.ShowTheSing.pdb

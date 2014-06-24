@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\bin\Debug\_04.SurfesOfTriangle.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\bin\Debug\_04.SurfesOfTriangle.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\bin\Debug\_04.SurfesOfTriangle.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\obj\Debug\04. SurfesOfTriangle.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\obj\Debug\_04.SurfesOfTriangle.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\04. SurfesOfTriangle\obj\Debug\_04.SurfesOfTriangle.pdb

@@ -1,0 +1,37 @@
+﻿body {
+    color: rgb(160,160,160);
+}
+.mainDiv {
+    width: 670px;
+    height: 260px;
+    border: 1px solid rgb(246, 215, 26);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background-color: rgb(59,59,59);
+}
+h1 {
+    color: rgb(246, 215, 26);
+    text-decoration: solid;
+}
+
+#firstDiv {
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: solid;
+    background-color: rgb(51,51,51);
+}
+
+#button {
+    width: 20px;
+    height: 20px;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
+.artdiv {
+    padding: 10px;
+}

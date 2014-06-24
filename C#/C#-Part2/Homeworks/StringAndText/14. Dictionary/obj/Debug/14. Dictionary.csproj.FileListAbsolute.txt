@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\14. Dictionary\bin\Debug\_14.Dictionary.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\14. Dictionary\bin\Debug\_14.Dictionary.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\14. Dictionary\bin\Debug\_14.Dictionary.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\14. Dictionary\obj\Debug\_14.Dictionary.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\14. Dictionary\obj\Debug\_14.Dictionary.pdb

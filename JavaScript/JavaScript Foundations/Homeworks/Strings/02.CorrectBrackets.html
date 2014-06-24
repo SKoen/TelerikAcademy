@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Brackets</title>
+    <link href="style/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="strName">Enter String</label>
+    <input type="text" id="strName" />
+    <input type="button" onclick="CheckBrackets()" value="Enter" />
+    <div id="js-console"></div>
+    <script>
+        function CheckBrackets() {
+            var name = jsConsole.read("#strName");
+            var left = 0;
+            var ride = 0;
+            for (var i = 0; i < name.length; i++) {
+                if (name[i] == '(') {
+                    left++;
+                }
+                else if (name[i] == ')') {
+                    ride++;
+                }
+            }
+            if (left == ride) {
+                jsConsole.writeLine("Correct!");
+            }
+            else {
+                jsConsole.writeLine("In Correct!");
+            }
+        }
+    </script>
+    <script src="script/js-console.js"></script>
+</body>
+</html>

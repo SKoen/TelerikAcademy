@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\07.  GreatestValue\bin\Debug\_07.GreatestValue.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\07.  GreatestValue\bin\Debug\_07.GreatestValue.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\07.  GreatestValue\bin\Debug\_07.GreatestValue.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\07.  GreatestValue\obj\Debug\_07.GreatestValue.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\07.  GreatestValue\obj\Debug\_07.GreatestValue.pdb

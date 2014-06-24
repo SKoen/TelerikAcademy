@@ -1,0 +1,4 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\News\bin\News.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\News\bin\News.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\News\obj\Debug\News.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\News\obj\Debug\News.pdb

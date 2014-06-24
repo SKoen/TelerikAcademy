@@ -1,0 +1,4 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-ExamTwo\Calculator\bin\Calculator.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-ExamTwo\Calculator\bin\Calculator.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-ExamTwo\Calculator\obj\Debug\Calculator.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\CSS-ExamTwo\Calculator\obj\Debug\Calculator.pdb

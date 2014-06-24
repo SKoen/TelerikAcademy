@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Prime Numbers</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Enter Number</label>
+    <input type="text" id="number" />
+    <input type="button" value="Enter" onclick="primeCheck()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function primeCheck() {
+            var number = jsConsole.readInteger("#number");
+                numberArr = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+                check = false;
+            for (var i = 0; i < numberArr.length; i++) {
+                if (numberArr[i] == number) {
+                    check = true;
+                }
+            }
+
+            jsConsole.writeLine("Is " + number + " a Prime Number: " + check);
+        }
+    </script>
+</body>
+</html>

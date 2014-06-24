@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\bin\Debug\_21.Letters.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\bin\Debug\_21.Letters.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\bin\Debug\_21.Letters.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\obj\Debug\21. Letters.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\obj\Debug\_21.Letters.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\21. Letters\obj\Debug\_21.Letters.pdb

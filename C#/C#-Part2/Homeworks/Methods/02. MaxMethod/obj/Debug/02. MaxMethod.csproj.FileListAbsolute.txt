@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\02. MaxMethod\bin\Debug\_02.MaxMethod.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\02. MaxMethod\bin\Debug\_02.MaxMethod.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\02. MaxMethod\bin\Debug\_02.MaxMethod.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\02. MaxMethod\obj\Debug\_02.MaxMethod.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\02. MaxMethod\obj\Debug\_02.MaxMethod.pdb

@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\WeekDay\bin\Debug\WeekDay.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\WeekDay\bin\Debug\WeekDay.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\WeekDay\bin\Debug\WeekDay.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\WeekDay\obj\Debug\WeekDay.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\WeekDay\obj\Debug\WeekDay.pdb

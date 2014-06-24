@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\17. Date\bin\Debug\_17.Date.exe.config
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\17. Date\bin\Debug\_17.Date.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\17. Date\bin\Debug\_17.Date.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\17. Date\obj\Debug\_17.Date.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\17. Date\obj\Debug\_17.Date.pdb

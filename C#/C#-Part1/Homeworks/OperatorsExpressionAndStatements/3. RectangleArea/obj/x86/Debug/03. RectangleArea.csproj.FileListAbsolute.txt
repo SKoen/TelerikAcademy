@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\3. RectangleArea\obj\x86\Debug\_3.RectangleArea.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\3. RectangleArea\obj\x86\Debug\_3.RectangleArea.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\3. RectangleArea\bin\Debug\_3.RectangleArea.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\3. RectangleArea\bin\Debug\_3.RectangleArea.pdb

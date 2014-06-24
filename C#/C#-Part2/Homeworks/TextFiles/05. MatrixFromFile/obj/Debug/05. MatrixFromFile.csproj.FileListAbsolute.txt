@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\bin\Debug\_05.MatrixFromFile.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\bin\Debug\_05.MatrixFromFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\bin\Debug\_05.MatrixFromFile.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\obj\Debug\05. MatrixFromFile.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\obj\Debug\_05.MatrixFromFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\05. MatrixFromFile\obj\Debug\_05.MatrixFromFile.pdb

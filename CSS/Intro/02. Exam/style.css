@@ -1,0 +1,22 @@
+﻿body {
+    font-family: Arial;
+}
+table {
+    border: thin;
+    font-size: 13px;
+}
+table td{
+    border-right: thin inset;
+    width: 20%;
+    padding-left: 7px;
+}
+table tr:first-of-type {
+    background-color: rgb(87, 186, 6);
+    color: white;
+}
+table tr:last-of-type {
+    margin-right: 10px;
+}
+.diferent {
+    background-color: rgb(236, 236, 216);
+}

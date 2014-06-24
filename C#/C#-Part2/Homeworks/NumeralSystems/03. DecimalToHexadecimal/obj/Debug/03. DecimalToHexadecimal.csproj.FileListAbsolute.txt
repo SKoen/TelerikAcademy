@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\03. DecimalToHexadecimal\bin\Debug\_03.DecimalToHexadecimal.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\03. DecimalToHexadecimal\obj\Debug\_03.DecimalToHexadecimal.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\03. DecimalToHexadecimal\obj\Debug\_03.DecimalToHexadecimal.pdb

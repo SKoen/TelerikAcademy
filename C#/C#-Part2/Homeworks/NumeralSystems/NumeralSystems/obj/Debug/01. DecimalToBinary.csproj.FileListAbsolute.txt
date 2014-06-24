@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\bin\Debug\NumeralSystems.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\NumeralSystems\NumeralSystems\obj\Debug\NumeralSystems.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\bin\Debug\_09.MaxOfPart.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\bin\Debug\_09.MaxOfPart.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\bin\Debug\_09.MaxOfPart.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\bin\Debug\_08.ArrayOfDigits.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\bin\Debug\_08.ArrayOfDigits.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\obj\Debug\09. MaxOfPart.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\obj\Debug\_09.MaxOfPart.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\09. MaxOfPart\obj\Debug\_09.MaxOfPart.pdb

@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\04. CalculateFacturql\bin\Debug\_04.CalculateFacturql.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\04. CalculateFacturql\bin\Debug\_04.CalculateFacturql.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\04. CalculateFacturql\bin\Debug\_04.CalculateFacturql.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\04. CalculateFacturql\obj\Debug\_04.CalculateFacturql.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\04. CalculateFacturql\obj\Debug\_04.CalculateFacturql.pdb

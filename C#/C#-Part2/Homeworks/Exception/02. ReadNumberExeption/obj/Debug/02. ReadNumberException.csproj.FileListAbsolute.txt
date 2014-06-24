@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\02. ReadNumberExeption\bin\Debug\_02.ReadNumberExeption.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\02. ReadNumberExeption\bin\Debug\_02.ReadNumberExeption.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\02. ReadNumberExeption\bin\Debug\_02.ReadNumberExeption.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\02. ReadNumberExeption\obj\Debug\_02.ReadNumberExeption.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\02. ReadNumberExeption\obj\Debug\_02.ReadNumberExeption.pdb

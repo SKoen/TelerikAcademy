@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Game with ball</title>
+    <link href="styles/styles.css" rel="stylesheet" />
+    <style>
+        .kineticjs-content{
+            border: 1px solid black;
+        }
+    </style>
+
+</head>
+<body>
+    <header>
+        <ul>
+            <li><a href="#gameField" id="newGame">New game</a></li>
+        </ul>
+    </header>
+    <div id="gameField">
+        <div id="container">
+
+        </div>
+        <svg id="svgRoot">
+            <circle cx="100" cy="100" r="10" id="ball" />
+            <!--<rect id="pad" height="15px" width="150px" x="200" y="200" rx="10" ry="20" />-->
+        </svg>
+        <div id="message"></div>
+    </div>
+    <script src="libs/raphael-min.js"></script>
+    <script src="libs/kinetic-v5.1.0.min.js"></script>
+    <script src="scripts/mouse.js"></script>
+    <script src="libs/jquery.min.js"></script>
+    <script src="scripts/game.js"></script>
+</body>
+</html>

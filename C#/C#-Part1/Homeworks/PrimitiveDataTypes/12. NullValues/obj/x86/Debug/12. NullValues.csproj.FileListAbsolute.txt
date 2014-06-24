@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\12. NullValues\obj\x86\Debug\_12.NullValues.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\12. NullValues\obj\x86\Debug\_12.NullValues.pdb

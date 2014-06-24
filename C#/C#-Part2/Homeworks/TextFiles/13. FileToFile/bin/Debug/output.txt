@@ -1,0 +1,8 @@
+﻿love-19
+need-18
+hit-18
+food-8
+hot-8
+cut-8
+paste-8
+drunk-8

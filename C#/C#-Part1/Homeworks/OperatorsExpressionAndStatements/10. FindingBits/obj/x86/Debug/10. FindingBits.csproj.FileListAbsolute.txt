@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\10. FindingBits\bin\Debug\_10.FindingBits.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\10. FindingBits\bin\Debug\_10.FindingBits.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\10. FindingBits\obj\x86\Debug\_10.FindingBits.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\10. FindingBits\obj\x86\Debug\_10.FindingBits.pdb

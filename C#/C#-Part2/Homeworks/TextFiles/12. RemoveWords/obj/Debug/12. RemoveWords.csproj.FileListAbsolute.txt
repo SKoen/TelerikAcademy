@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\bin\Debug\_12.RemoveWords.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\obj\Debug\12. RemoveWords.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\obj\Debug\_12.RemoveWords.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\12. RemoveWords\obj\Debug\_12.RemoveWords.pdb

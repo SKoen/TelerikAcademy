@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\obj\Debug\06. SortTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\obj\Debug\_06.SortTextFile.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\TextFiles\06. SortTextFile\obj\Debug\_06.SortTextFile.pdb

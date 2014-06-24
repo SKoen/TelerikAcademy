@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\11. ChangeTheValue\bin\Debug\_11.ChangeTheValue.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\11. ChangeTheValue\bin\Debug\_11.ChangeTheValue.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\11. ChangeTheValue\obj\x86\Debug\_11.ChangeTheValue.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\11. ChangeTheValue\obj\x86\Debug\_11.ChangeTheValue.pdb

@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\3. Floating-pointNumbers\bin\Debug\_3.Floating_pointNumbers.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\3. Floating-pointNumbers\bin\Debug\_3.Floating_pointNumbers.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\3. Floating-pointNumbers\obj\x86\Debug\_3.Floating_pointNumbers.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\3. Floating-pointNumbers\obj\x86\Debug\_3.Floating_pointNumbers.pdb

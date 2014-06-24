@@ -1,0 +1,8 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\bin\Debug\_06.GetIndex.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\bin\Debug\_06.GetIndex.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\bin\Debug\_06.GetIndex.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\obj\Debug\_06.GetIndex.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\obj\Debug\_06.GetIndex.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\bin\Debug\_05.BiggerNeighbor.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\bin\Debug\_05.BiggerNeighbor.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\06. GetIndex\obj\Debug\06. GetIndex.csprojResolveAssemblyReference.cache

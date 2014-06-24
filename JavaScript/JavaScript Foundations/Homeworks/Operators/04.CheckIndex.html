@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check the Index</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Enter Number</label>
+    <input type="text" id="number" />
+    <input type="button" value="Enter" onclick="check()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function check() {
+            var number = jsConsole.readInteger("#number");
+                index = number.toString()[number.toString().length - 3] == 7;
+
+            jsConsole.writeLine("Is the thurd digit (ride to left) 7 in the number: " + number + " : " + index);
+        }
+    </script>
+</body>
+</html>

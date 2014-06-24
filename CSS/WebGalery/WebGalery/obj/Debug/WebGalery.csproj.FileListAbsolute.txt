@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\bin\WebGalery.dll.config
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\bin\WebGalery.dll
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\bin\WebGalery.pdb
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\obj\Debug\WebGalery.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\obj\Debug\WebGalery.dll
+c:\users\sh0rti\documents\visual studio 2013\Projects\WebGalery\WebGalery\obj\Debug\WebGalery.pdb

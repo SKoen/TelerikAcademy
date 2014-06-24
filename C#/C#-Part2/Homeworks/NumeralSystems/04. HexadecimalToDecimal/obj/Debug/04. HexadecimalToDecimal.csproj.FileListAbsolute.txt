@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\NumeralSystems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.pdb

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <div id="drop-down">
+
+    </div>
+    <script src="libs/handlebars-v1.3.0.js"></script>
+    <script id="drop-down-template" type="text/hendalbars-template-x">
+        <select>
+            {{#each options}}
+            <option value="{{value}}">{{text}}</option>
+            {{/each}}
+        </select>
+    </script>
+
+    <script>
+        var options = [
+            {
+                value: 1,
+                text: 'one'
+            },{
+                value: 2,
+                text: 'two'
+            }, {
+                value: 3,
+                text: 'three'
+            }, {
+                value: 4,
+                text: 'four'
+            }, {
+                value: 5,
+                text: 'five'
+            }, {
+                value: 6,
+                text: 'six'
+            }];
+
+        var dropDownContainer = document.getElementById('drop-down');
+        var authorsListTemplate = Handlebars.compile((document.getElementById('drop-down-template')).innerHTML);
+        while (dropDownContainer.firstChild) {
+            dropDownContainer.removeChild(dropDownContainer.firstChild);
+        }
+
+        dropDownContainer.innerHTML = authorsListTemplate({
+            options: options
+        });
+    </script>
+
+</body>
+</html>

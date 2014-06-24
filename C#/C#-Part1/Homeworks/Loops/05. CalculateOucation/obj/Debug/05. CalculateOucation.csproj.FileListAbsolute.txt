@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\bin\Debug\_05.CalculateOucation.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\bin\Debug\_05.CalculateOucation.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\bin\Debug\_05.CalculateOucation.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\obj\Debug\05. CalculateOucation.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\obj\Debug\_05.CalculateOucation.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\05. CalculateOucation\obj\Debug\_05.CalculateOucation.pdb

@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\04. SubstringCounter\bin\Debug\_04.SubstringCounter.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\04. SubstringCounter\bin\Debug\_04.SubstringCounter.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\04. SubstringCounter\bin\Debug\_04.SubstringCounter.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\04. SubstringCounter\obj\Debug\_04.SubstringCounter.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\04. SubstringCounter\obj\Debug\_04.SubstringCounter.pdb

@@ -1,0 +1,5 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. UnicodeSymbol\bin\Debug\_5.UnicodeSymbol.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. UnicodeSymbol\bin\Debug\_5.UnicodeSymbol.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. UnicodeSymbol\obj\x86\Debug\_5.UnicodeSymbol.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. UnicodeSymbol\obj\x86\Debug\_5.UnicodeSymbol.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\5. UnicodeSymbol\obj\x86\Debug\5. UnicodeSymbol.csprojResolveAssemblyReference.cache

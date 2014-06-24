@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\11. ConvertNumber\obj\Debug\_11.ConvertNumber.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\11. ConvertNumber\obj\Debug\_11.ConvertNumber.pdb

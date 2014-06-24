@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\obj\Debug\ThreeDPoint.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\bin\Debug\3DPoint.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\bin\Debug\3DPoint.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\bin\Debug\3DPoint.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\obj\Debug\3DPoint.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesPart2\3DPoint\obj\Debug\3DPoint.pdb

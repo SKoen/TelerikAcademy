@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Compare Char Arrays (String)</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first">CharArray1:</label>
+    <input type="text" id="first" />
+    <label for="second">CharArray2:</label>
+    <input type="text" id="second" />
+    <input type="button" onclick="compare()" value="Compare" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function compare() {
+            var first = jsConsole.read("#first").toString();
+            var second = jsConsole.read("#second").toString();
+            var comapare;
+            for (var i = 0; i < first.length; i++) {
+                if (first[i] == second[i]) {
+                    comapare = true;
+                } else {
+                    comapare = false;
+                    break;
+                }
+            }
+		
+            jsConsole.writeLine('The char arrays: "' + first + '" "' + second + '" are: ' + comapare);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\bin\Debug\_10.CinvertToUnicode.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\bin\Debug\_10.CinvertToUnicode.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\bin\Debug\_10.CinvertToUnicode.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\obj\Debug\10. CinvertToUnicode.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\obj\Debug\_10.CinvertToUnicode.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\10. CinvertToUnicode\obj\Debug\_10.CinvertToUnicode.pdb

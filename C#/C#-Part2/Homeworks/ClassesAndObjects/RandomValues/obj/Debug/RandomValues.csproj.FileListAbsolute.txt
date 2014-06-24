@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\RandomValues\bin\Debug\RandomValues.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\RandomValues\bin\Debug\RandomValues.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\RandomValues\bin\Debug\RandomValues.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\RandomValues\obj\Debug\RandomValues.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\RandomValues\obj\Debug\RandomValues.pdb

@@ -1,0 +1,2 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\Student\bin\Debug\Student.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Principles\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache

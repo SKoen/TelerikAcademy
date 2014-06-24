@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\14. ChangeBitLikeArray\bin\Debug\_14.ChangeBitLikeArray.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\14. ChangeBitLikeArray\bin\Debug\_14.ChangeBitLikeArray.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\14. ChangeBitLikeArray\obj\x86\Debug\_14.ChangeBitLikeArray.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\14. ChangeBitLikeArray\obj\x86\Debug\_14.ChangeBitLikeArray.pdb

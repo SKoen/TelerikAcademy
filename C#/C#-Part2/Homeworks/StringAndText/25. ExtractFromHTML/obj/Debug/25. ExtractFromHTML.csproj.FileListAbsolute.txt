@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\25. ExtractFromHTML\obj\Debug\25. ExtractFromHTML.csprojResolveAssemblyReference.cache

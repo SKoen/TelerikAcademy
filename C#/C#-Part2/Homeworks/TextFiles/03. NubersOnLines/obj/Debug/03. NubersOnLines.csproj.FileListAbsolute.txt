@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\03. NubersOnLines\bin\Debug\_03.NubersOnLines.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\03. NubersOnLines\bin\Debug\_03.NubersOnLines.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\03. NubersOnLines\bin\Debug\_03.NubersOnLines.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\03. NubersOnLines\obj\Debug\_03.NubersOnLines.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\03. NubersOnLines\obj\Debug\_03.NubersOnLines.pdb

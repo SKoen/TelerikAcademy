@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\bin\Debug\BitArray64.exe.config
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\bin\Debug\BitArray64.exe
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\bin\Debug\BitArray64.pdb
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\obj\Debug\BitArray64.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\obj\Debug\BitArray64.exe
+C:\Users\Sh0rti\documents\visual studio 2013\Projects\Student\BitArray64\obj\Debug\BitArray64.pdb

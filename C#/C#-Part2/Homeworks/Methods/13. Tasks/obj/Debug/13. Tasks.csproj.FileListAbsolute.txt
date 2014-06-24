@@ -1,0 +1,2 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\13. Tasks\bin\Debug\_13.Tasks.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\13. Tasks\obj\Debug\13. Tasks.csprojResolveAssemblyReference.cache

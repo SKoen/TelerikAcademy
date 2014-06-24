@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\bin\Debug\_03.FindMSDN.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\bin\Debug\_03.FindMSDN.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\bin\Debug\_03.FindMSDN.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\obj\Debug\03. FindMSDN.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\obj\Debug\_03.FindMSDN.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Exception\03. FindMSDN\obj\Debug\_03.FindMSDN.pdb

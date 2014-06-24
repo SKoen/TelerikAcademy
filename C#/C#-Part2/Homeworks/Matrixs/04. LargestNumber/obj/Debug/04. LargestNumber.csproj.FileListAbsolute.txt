@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\bin\Debug\_04.LargestNumber.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\bin\Debug\_04.LargestNumber.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\bin\Debug\_04.LargestNumber.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\obj\Debug\04. LargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\obj\Debug\_04.LargestNumber.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Solution2\04. LargestNumber\obj\Debug\_04.LargestNumber.pdb

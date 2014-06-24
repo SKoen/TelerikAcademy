@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\5. CountingBitNumber\bin\Debug\_5.CountingBitNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\5. CountingBitNumber\bin\Debug\_5.CountingBitNumber.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\5. CountingBitNumber\obj\x86\Debug\_5.CountingBitNumber.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\5. CountingBitNumber\obj\x86\Debug\_5.CountingBitNumber.pdb

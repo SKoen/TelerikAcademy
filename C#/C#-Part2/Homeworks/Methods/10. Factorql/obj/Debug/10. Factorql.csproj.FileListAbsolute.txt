@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\bin\Debug\_10.Factorql.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\bin\Debug\_10.Factorql.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\bin\Debug\_10.Factorql.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\obj\Debug\_10.Factorql.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\obj\Debug\_10.Factorql.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\10. Factorql\obj\Debug\10. Factorql.csprojResolveAssemblyReference.cache

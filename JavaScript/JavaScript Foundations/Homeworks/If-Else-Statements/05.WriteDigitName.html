@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Digit Name</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="digit">Enter Digit: </label>
+    <input type="text" id="digit" />
+    <input type="button" onclick="digitName()" value="Name?" />
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function digitName() {
+            var digit = jsConsole.readInteger("#digit")
+                name = "One";
+            if (digit > 9 || digit < 0) {
+                name = "Enter Only One Digit!"
+            }
+            else {
+                switch (digit) {
+                    case 1:
+                        break;
+                    case 2: name = "Two";
+                        break;
+                    case 3: name = "Three";
+                        break;
+                    case 4: name = "Four";
+                        break;
+                    case 5: name = "Five";
+                        break;
+                    case 6: name = "Six";
+                        break;
+                    case 7: name = "Seven";
+                        break;
+                    case 8: name = "Eigth";
+                        break;
+                    case 9: name = "Nine";
+                        break;
+                    case 0: name = "Zero";
+                        break;
+                    default: name = "Not a Digit!"
+                        break;
+                }
+            }
+
+            jsConsole.writeLine(name);
+        }
+    </script>
+</body>
+</html>

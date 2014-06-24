@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\01. Name\bin\Debug\_01.Name.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\01. Name\bin\Debug\_01.Name.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\01. Name\bin\Debug\_01.Name.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\01. Name\obj\Debug\_01.Name.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Methods\01. Name\obj\Debug\_01.Name.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\ApplePage\bin\ApplePage.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\ApplePage\bin\ApplePage.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\ApplePage\obj\Debug\ApplePage.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\ApplePage\obj\Debug\ApplePage.dll
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Layout\ApplePage\obj\Debug\ApplePage.pdb

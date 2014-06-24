@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\02. TwoTextIntoNewOne\bin\Debug\_02.TwoTextIntoNewOne.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\02. TwoTextIntoNewOne\bin\Debug\_02.TwoTextIntoNewOne.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\02. TwoTextIntoNewOne\bin\Debug\_02.TwoTextIntoNewOne.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\02. TwoTextIntoNewOne\obj\Debug\_02.TwoTextIntoNewOne.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\TextFiles\02. TwoTextIntoNewOne\obj\Debug\_02.TwoTextIntoNewOne.pdb

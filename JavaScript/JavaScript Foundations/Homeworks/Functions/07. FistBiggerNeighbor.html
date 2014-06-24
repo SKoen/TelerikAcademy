@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Index of first bigger neighbor!</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <input type="button" onclick="find()" value="Find" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script src="scripts/06.elementNeighbors.js"></script>
+    <script>
+        function find() {
+            var arr = [1, 2, 3, 5, 2, 5, 3, 2, 10, 2];
+                answer = "Bigger";
+            for (var i = 0; i < arr.length; i++) {
+                if (checkNeighbors(arr[i], arr) == answer) {
+                    jsConsole.writeLine(arr[i]);
+                    break;
+                } else if (i == arr.length-1) {
+                    jsConsole.writeLine(-1);
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

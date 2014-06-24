@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\bin\Debug\_13.ZerosInNumber.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\bin\Debug\_13.ZerosInNumber.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\bin\Debug\_13.ZerosInNumber.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\obj\Debug\13. ZerosInNumber.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\obj\Debug\_13.ZerosInNumber.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\13. ZerosInNumber\obj\Debug\_13.ZerosInNumber.pdb

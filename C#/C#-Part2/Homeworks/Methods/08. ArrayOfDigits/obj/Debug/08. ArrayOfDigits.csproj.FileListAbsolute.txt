@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\bin\Debug\_08.ArrayOfDigits.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\bin\Debug\_08.ArrayOfDigits.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\bin\Debug\_08.ArrayOfDigits.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\obj\Debug\08. ArrayOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\obj\Debug\_08.ArrayOfDigits.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\Methods\08. ArrayOfDigits\obj\Debug\_08.ArrayOfDigits.pdb

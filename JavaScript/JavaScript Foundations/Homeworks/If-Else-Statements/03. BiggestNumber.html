@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find the Biggest Number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="firstNumber">Fist Number: </label>
+    <input type="text" id="firstNumber" />
+    <label for="secondNumber">Fist Number: </label>
+    <input type="text" id="secondNumber" />
+    <label for="thurdNumber">Fist Number: </label>
+    <input type="text" id="thurdNumber" />
+    <input type="button" onclick="biggestNumber()" value="Enter" />
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function biggestNumber() {
+            var firstNumber = jsConsole.readInteger("#firstNumber");
+                secondNumber = jsConsole.readInteger("#secondNumber");
+                thurdNumber = jsConsole.readInteger("#thurdNumber");
+                biggestNumber = firstNumber;
+            if (biggestNumber < secondNumber) {
+                biggestNumber = secondNumber;
+                if (biggestNumber < thurdNumber) {
+                    biggestNumber = thurdNumber;
+                }
+            }
+            else {
+                if (biggestNumber < thurdNumber) {
+                    biggestNumber = thurdNumber;
+                }
+            }
+
+            jsConsole.writeLine("The biggerst numbers from: (" + firstNumber + "," + secondNumber + "," + thurdNumber + ") is: " + biggestNumber);
+        }
+     </script>
+</body>
+</html>

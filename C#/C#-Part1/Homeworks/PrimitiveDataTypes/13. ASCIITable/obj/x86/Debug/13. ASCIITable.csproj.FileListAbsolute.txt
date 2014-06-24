@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. ASCIITable\bin\Debug\_13.ASCIITable.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. ASCIITable\bin\Debug\_13.ASCIITable.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. ASCIITable\obj\x86\Debug\_13.ASCIITable.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. ASCIITable\obj\x86\Debug\_13.ASCIITable.pdb

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check Point</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="x">Point X</label>
+    <input type="text" id="x" />
+    <label for="y">Point Y</label>
+    <input type="text" id="y" />
+    <input type="button" value="Enter" onclick="checkPoint()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function checkPoint() {
+            var x = jsConsole.readInteger("#x");
+                y = jsConsole.readInteger("#y");
+                circle = x < 1.1 && y < 3;
+                rectangle = x > 6 && y > 2;
+                jsConsole.writeLine("The Point (" + x + "," + y + ") in the Cirlse is: " + circle + ", and in the Rectangle: " + rectangle);
+        }
+    </script>
+</body>
+</html>

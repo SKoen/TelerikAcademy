@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Select all Div Nodes inside Div</title>
+    <style>
+        div{
+            border: 1px solid red;
+            border-radius: 5px;
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div></div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+    </div>
+
+    <p>Result is write on console!</p>
+    <input type="button" onclick="sellectAllWithQuerySelector()" value="QuerySelector" >
+
+    <input type="button" onclick="selectAllWithGetElementsBy()" value="GetElementsBy">
+    <script>
+
+        function  sellectAllWithQuerySelector(){
+            var nodes = document.querySelectorAll("div > div");
+            console.log("QuerySelector: ")
+            for (var i = 0, length = nodes.length; i < length; i++) {
+                console.log(nodes[i])
+            }
+        }
+
+        function selectAllWithGetElementsBy(){
+            var nodes = document.getElementsByTagName("div");
+            console.log("GetElementsByTagName: ")
+            var sum = 0;
+            for (var i = 0, length = nodes.length; i < length; i++) {
+               sum += nodes[i].getElementsByTagName("div").length;
+            }
+            console.log("Nodes divs are: " + sum)
+        }
+
+    </script>
+</body>
+</html>

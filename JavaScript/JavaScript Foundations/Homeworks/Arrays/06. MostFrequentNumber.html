@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Most freqent number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Number: </label>
+    <input type="text" id="number" />
+    <input type="button" onclick="addNumber()" value="AddNumber" />
+    <input type="button" onclick="fintIt()" value="Find" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script src="scripts/addnumber.js"></script>
+    <script src="scripts/03.sequence.js"></script>
+    <script src="scripts/05.sortArray.js"></script>
+    <script>
+        function fintIt() {
+            jsConsole.write("Array Elements: ")
+            sort();
+            jsConsole.write("Sequence: ")
+            findSequence();
+        }
+    </script>
+</body>
+</html>

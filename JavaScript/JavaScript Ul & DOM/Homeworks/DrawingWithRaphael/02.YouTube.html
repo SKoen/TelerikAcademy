@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Draw YouTube Logo</title>
+</head>
+<body>
+<div id="svg-container"></div>
+<script type="text/javascript" src="bower_components/raphael/raphael.js"></script>
+<script>
+    var paper = Raphael('svg-container', 700, 400);
+
+    paper.rect(50, 50, 470, 170).attr({
+        stroke: '#daecf1'
+    });
+
+    paper.text(155, 130, "You").attr({
+        'fill': "#4b4b4b",
+        "font-weight": "bold",
+        'font-size': 170,
+        "font-family": "Calibri, Consolas, Arial"
+
+    }).scale(0.7, 1);
+
+    paper.rect(255, 60, 250, 145, 30, 30).attr({
+        'fill': "#ec2828",
+        'stroke': 'none'
+    });
+
+    paper.text(380, 130, "Tube").attr({
+        'fill': "white",
+        "font-weight": "bold",
+        'font-size': 160,
+        "font-family": "Calibri, Consolas, Arial"
+
+    }).scale(0.7, 1);
+
+</script>
+
+</body>
+</html>

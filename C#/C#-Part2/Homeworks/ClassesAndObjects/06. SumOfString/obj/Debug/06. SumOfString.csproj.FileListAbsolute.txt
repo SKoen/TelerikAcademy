@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\06. SumOfString\bin\Debug\_06.SumOfString.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\06. SumOfString\bin\Debug\_06.SumOfString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\06. SumOfString\bin\Debug\_06.SumOfString.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\06. SumOfString\obj\Debug\_06.SumOfString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\06. SumOfString\obj\Debug\_06.SumOfString.pdb

@@ -1,0 +1,5 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\03. MaxAndMin\bin\Debug\_03.MaxAndMin.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\03. MaxAndMin\bin\Debug\_03.MaxAndMin.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\03. MaxAndMin\bin\Debug\_03.MaxAndMin.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\03. MaxAndMin\obj\Debug\_03.MaxAndMin.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\Loops\03. MaxAndMin\obj\Debug\_03.MaxAndMin.pdb

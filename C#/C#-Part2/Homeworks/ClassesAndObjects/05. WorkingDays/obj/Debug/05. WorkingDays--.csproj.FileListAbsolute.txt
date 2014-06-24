@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\bin\Debug\_05.WorkingDays.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\bin\Debug\_05.WorkingDays.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\bin\Debug\_05.WorkingDays.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\obj\Debug\05. WorkingDays--.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\obj\Debug\_05.WorkingDays.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\ClassesAndObjects\05. WorkingDays\obj\Debug\_05.WorkingDays.pdb

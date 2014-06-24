@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\bin\Debug\_16.Days.exe.config
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\bin\Debug\_16.Days.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\bin\Debug\_16.Days.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\obj\Debug\_16.Days.exe
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\obj\Debug\_16.Days.pdb
+C:\Users\Sh0rti\Documents\Visual Studio 2012\Projects\StringAndText\16. Days\obj\Debug\16. Days.csprojResolveAssemblyReference.cache

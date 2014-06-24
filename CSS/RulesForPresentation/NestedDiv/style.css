@@ -1,0 +1,15 @@
+﻿section {
+     position: absolute; 
+     right: 0; 
+     left: 0; 
+     overflow: auto;
+}
+div {
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    border-color: red;
+    border-style: solid;
+    background-color: black;
+    padding-right: 10px;
+}

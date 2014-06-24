@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\01. StringImportant\bin\Debug\_01.StringImportant.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\01. StringImportant\bin\Debug\_01.StringImportant.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\01. StringImportant\bin\Debug\_01.StringImportant.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\01. StringImportant\obj\Debug\_01.StringImportant.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\01. StringImportant\obj\Debug\_01.StringImportant.pdb

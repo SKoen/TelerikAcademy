@@ -1,0 +1,6 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\bin\Debug\_01.MobilePhone.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\obj\Debug\_01.MobilePhone.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\obj\Debug\_01.MobilePhone.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\obj\Debug\01. MobilePhone--.csprojResolveAssemblyReference.cache
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\bin\Debug\_01.MobilePhone.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ClassesConstructorsAndProperties\01. MobilePhone\bin\Debug\_01.MobilePhone.pdb

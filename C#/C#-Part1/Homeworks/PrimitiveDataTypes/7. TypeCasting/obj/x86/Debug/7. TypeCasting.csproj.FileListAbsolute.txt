@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\7. TypeCasting\bin\Debug\_7.TypeCasting.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\7. TypeCasting\bin\Debug\_7.TypeCasting.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\7. TypeCasting\obj\x86\Debug\_7.TypeCasting.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\7. TypeCasting\obj\x86\Debug\_7.TypeCasting.pdb

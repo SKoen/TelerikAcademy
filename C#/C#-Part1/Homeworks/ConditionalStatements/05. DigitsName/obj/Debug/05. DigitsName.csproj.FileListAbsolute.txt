@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\05. DigitsName\bin\Debug\_05.DigitsName.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\05. DigitsName\bin\Debug\_05.DigitsName.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\05. DigitsName\bin\Debug\_05.DigitsName.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\05. DigitsName\obj\Debug\_05.DigitsName.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\ConditionalStatements\05. DigitsName\obj\Debug\_05.DigitsName.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="x">Enter X</label>
+    <input type="text" id="x" />
+    <label for="y">Enter Y</label>
+    <input type="text" id="y" />
+    <input type="button" value="Enter" onclick="calculate()" />
+    <div id="js-console"></div>
+    <script src="script/js-console.js"></script>
+    <script>
+        function calculate() {
+            var x = jsConsole.readInteger("#x");
+                y = jsConsole.readInteger("#y");
+                check = x > 0 && x < 5 && y > 0 && y < 5 && x < y;
+
+            jsConsole.writeLine("Is the curcle (" + x + "," + y + ") within curcle (0,5): " + check);
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\13. ChangeBits\bin\Debug\_13.ChangeBits.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\13. ChangeBits\bin\Debug\_13.ChangeBits.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\13. ChangeBits\obj\x86\Debug\_13.ChangeBits.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\OperatorsExpressionAndStatements\13. ChangeBits\obj\x86\Debug\_13.ChangeBits.pdb

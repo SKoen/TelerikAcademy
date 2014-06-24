@@ -1,0 +1,5 @@
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\07. EncodeAndDecode\bin\Debug\_07.EncodeAndDecode.exe.config
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\07. EncodeAndDecode\bin\Debug\_07.EncodeAndDecode.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\07. EncodeAndDecode\bin\Debug\_07.EncodeAndDecode.pdb
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\07. EncodeAndDecode\obj\Debug\_07.EncodeAndDecode.exe
+C:\Users\Sh0rti\documents\visual studio 2012\Projects\StringAndText\07. EncodeAndDecode\obj\Debug\_07.EncodeAndDecode.pdb

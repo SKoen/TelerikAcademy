@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Change Values</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="firstNumber">Fist Number: </label>
+    <input type="text" id="firstNumber" />
+    <label for="secondNumber">Fist Number: </label>
+    <input type="text" id="secondNumber" />
+    <input type="button" onclick="calculate()" value="Calcuate" />
+    <div id="console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function calculate() {
+            var firstNumber = jsConsole.readInteger("#firstNumber");
+                secondNumber = jsConsole.readInteger("#secondNumber");
+            if (firstNumber > secondNumber) {
+                var thurd = firstNumber;
+                firstNumber = secondNumber;
+                secondNumber = thurd;
+            }
+            jsConsole.writeLine("Fist Number :" + firstNumber + "\nSecond Number: " + secondNumber);
+        }
+    </script>
+</body>
+</html>

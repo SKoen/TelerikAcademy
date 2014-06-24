@@ -1,0 +1,4 @@
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. BankAccount\bin\Debug\_13.BankAccount.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. BankAccount\bin\Debug\_13.BankAccount.pdb
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. BankAccount\obj\x86\Debug\_13.BankAccount.exe
+C:\Users\петър\Documents\Visual Studio 2010\Projects\Language'C'\PrimitiveDataTypes\13. BankAccount\obj\x86\Debug\_13.BankAccount.pdb

@@ -1,0 +1,6 @@
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\bin\Debug\_06.MaxString.exe.config
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\bin\Debug\_06.MaxString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\bin\Debug\_06.MaxString.pdb
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\obj\Debug\06. MaxString.csprojResolveAssemblyReference.cache
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\obj\Debug\_06.MaxString.exe
+c:\users\sh0rti\documents\visual studio 2012\Projects\StringAndText\06. MaxString\obj\Debug\_06.MaxString.pdb

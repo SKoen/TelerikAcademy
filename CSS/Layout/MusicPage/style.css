@@ -1,0 +1,38 @@
+﻿body {
+    background-color: rgb(255,255,255);
+}
+.maindiv {
+    margin: 20px;
+}
+.insadeDiv {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button {
+    background-color: red;
+    border: red;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+artecle {
+    color: rgb(255,255,255);
+}
+
+h1 {
+    color: rgb(255,255,255);
+}
+
+.a {
+    color: rgb(255,255,255);
+}
+
+span {
+    color: rgb(255,255,255);
+}
+
+p {
+   
+}
