@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Snake Game</title>
+    <style>
+        #container{
+            position: absolute;
+            left: 20%;
+            top: 10%;
+        }
+        #start{
+            margin-left:600px;
+            border-radius: 20px;
+            margin-top: 10px;
+            width: 120px;
+            height: 50px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<button id="start" onclick="start()">Start Game</button>
+    <canvas id="container" width="800" height="500">
+    </canvas>
+
+<script src="js/drawsanke.js"></script>
+<script src="js/gamelogic.js"></script>
+<script src="js/drawboard.js"></script>
+<script src="js/snake.js"></script>
+<script src="js/runGame.js"></script>
+</body>
+</html>

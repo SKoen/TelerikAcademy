@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Draw Module</title>
+</head>
+<body>
+<canvas id="container" width="600" height="600" style="border: 1px solid red"></canvas>
+<script src="drawingModule.js"></script>
+<script>
+    var draw = new Draw('container');
+    //Line
+    draw.line(20, 20, 50, 50, 4);
+    //Circle
+    draw.circle(100, 100, 50, 'blue');
+    //Rect
+    draw.rect(170, 170, 100, 100, 'blue');
+</script>
+
+</body>
+</html>
