@@ -1,0 +1,9 @@
+The game run on nodejs server and to test it you have to do:
+1. go to \node_modules\http-server
+2. open cmd here
+3. write "node bin/http-server"
+4. go to http://localhost:8080/Guessing%20Game.html
+
+The game is not exactly like in the homework i hope to like it. :)
+
+PP: In the console is a tip so you can test is more easy.

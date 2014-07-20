@@ -1,0 +1,50 @@
+input{
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.output-data input {
+    color: red;
+}
+
+.correct {
+    color: green !important;
+}
+
+div{
+    margin-left: 150px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 370px;
+    border-radius: 20px;
+}
+
+#register{
+    position: absolute;
+    top: 200px;
+    left: 25%;
+}
+
+#register input{
+    margin-left: 10px;
+    width: 150px;
+}
+
+#register button {
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+#clasation {
+    position: absolute;
+    top: 200px;
+    left: 70%;
+}
